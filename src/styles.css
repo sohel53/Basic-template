@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    text-align: center;
+    background-color: rgb(106, 106, 236);
+    color: white;
+
+}
+
+.navbar .menu a{
+    text-decoration: none;
+    color: rgb(162, 234, 99);
+    padding: 8px;
+    font-size: 18px;
+}
+.about{
+    padding-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.about img {
+    padding: 5px;
+    width: 240px;
+    height: 280px;
+}
+.section h2{
+    text-align: center;
+    padding: 10px;
+}
+.footer {
+    margin-top: 10px;
+    box-sizing: border-box;
+    background-color: rgb(106, 106, 236);
+    color: rgb(162, 234, 99);
+    text-align: center;
+}
